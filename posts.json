@@ -1,0 +1,27 @@
+[
+  {
+    "userId": 1,
+    "content": "My name is User1. This is my first message on BeSocial. :D",
+    "createdAt": "2024-02-24T19:09:04.236Z"
+  },
+  {
+    "userId": 2,
+    "content": "This is my first post on BeSocial, this is me User2. :| ",
+    "createdAt": "2024-02-24T19:13:03.795Z"
+  },
+  {
+    "userId": 1,
+    "content": "Just woke up so frickin tired. FR FR :0",
+    "createdAt": "2024-02-24T19:15:20.106Z"
+  },
+  {
+    "userId": 3,
+    "content": "yo drillas just got this social media today. This do be kinda crazy. FR ",
+    "createdAt": "2024-02-24T19:16:58.109Z"
+  },
+  {
+    "userId": 4,
+    "content": "Hello this is my first time here :D ",
+    "createdAt": "2024-02-24T19:31:22.408Z"
+  }
+]
